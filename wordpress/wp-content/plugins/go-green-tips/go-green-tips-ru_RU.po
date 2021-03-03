@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Green Living Tips\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-17 07:56-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: onur <onur@lycie.com>\n"
+"Language-Team: Onr <onur@lycie.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNited States\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: gogreentips.php:74
+msgid "Change to fluorescent bulbs"
+msgstr "Используйте флуоресцентные лампы"
+
+#: gogreentips.php:75
+msgid "Hang outside to dry"
+msgstr "Развешивайте вещи на свежем воздухе для высыхания"
+
+#: gogreentips.php:76
+msgid "Use both sides of paper"
+msgstr "Используйте обе стороны бумаги"
+
+#: gogreentips.php:77
+msgid "Get rid of baths"
+msgstr "Избавьтесь от ванной"
+
+#: gogreentips.php:78
+msgid "Do not get bottled water"
+msgstr "Не покупайте воду в бутылках"
+
+#: gogreentips.php:79
+msgid "Shorten your shower"
+msgstr "Сократите время на водные процедуры"
+
+#: gogreentips.php:80
+msgid "Recycle glass"
+msgstr "Перерабатывайте стекло"
+
+#: gogreentips.php:81
+msgid "Turn down your thermostat"
+msgstr "Выключите Ваш термостат"
+
+#: gogreentips.php:82
+msgid "Turn off your lights"
+msgstr "Выключайте свет"
+
+#: gogreentips.php:83
+msgid "Do not get a paper phone book"
+msgstr "Не приобретайте бумажный телефонный справочник"
+
+#: gogreentips.php:84
+msgid "Give things away"
+msgstr "Отдайте ненужные вещи"
+
+#: gogreentips.php:85
+msgid "Go to a car wash"
+msgstr "Отправляйтесь на автомойку"
+
+#: gogreentips.php:86
+msgid "Buy rechargeable batteries"
+msgstr "Покупайте перезаряжаемые батареи"
+
+#: gogreentips.php:87
+msgid "Pay your bills online"
+msgstr "Оплачивайте счета он-лайн"
+
+#: gogreentips.php:88
+msgid "Get a reusable bag"
+msgstr "Приобретите многоразовую сумку"
+
+#: gogreentips.php:89
+msgid "Inflate your tires"
+msgstr "Накачайте Ваши шины"
+
+#: gogreentips.php:90
+msgid "Plant a tree"
+msgstr "Посадите дерево"
+
+#: gogreentips.php:91
+msgid "Walk or ride your bike when you can"
+msgstr "Гуляйте или катайтесь на велосипеде в свободное время"
+
+#: gogreentips.php:92
+msgid "If every house in the United States changed all of the light bulbs in their house, that would be equivalent to taking one million cars off the streets."
+msgstr "Если каждый дом в Соединенных штатах заменит все лампочки, то это будет эквивалентно изъятию одного миллиона автомобилей с улиц."
+
+#: gogreentips.php:93
+msgid "Get a clothes line or rack to dry your cloths. Your clothes will last longer and you will save money."
+msgstr "Приобретите веревку или стойку для сушки Вашей одежды. Ваша одежда будет служить дольше, и Вы съэкономите деньги."
+
+#: gogreentips.php:94
+msgid "If you have a printer with a double sided print option, use it. You will save half of the amount of paper you would have normally used."
+msgstr "Если у Вас есть принтер с функцией двухсторонней печати, то используйте это. Вы сохраните половину всей бумаги, которую обычно используете."
+
+#: gogreentips.php:95
+msgid "Do not take baths, take showers. You will save about half the amount of water that you would if you were taking a bath."
+msgstr "Не пользуйтесь ванной, принимайте душ. Вы сохраните около половины количества воды, которое бы Вы истратили при использовании ванны."
+
+#: gogreentips.php:96
+msgid "Instead of bottled water get a reusable container to carry water. Also you can get a filter to make your home tap taste more like bottled water. It is definitely more cost efficient."
+msgstr "Вместо воды в бутылках используйте контейнеры для переноски воды из перерабатываемых материалов. Также используйте фильтр для очистки домашней фоды из под крана. Это, безусловно, экономически более эффективно."
+
+#: gogreentips.php:97
+msgid "Every minute you cut from your shower is roughly 5 gallons of water. The less time your shower takes, the lower your impact on the environment."
+msgstr "Ежеменутно Вы тратите на душ примерно 5 галлонов воды. Чем меньше времени Вы принимаете душ, тем ниже Ваше воздействие на окружающую среду."
+
+#: gogreentips.php:98
+msgid "If you do not recycle this, it will take a million years to decompose."
+msgstr "Если Вы не переработаете стекло, то потребуются миллионы лет для его разложения."
+
+#: gogreentips.php:99
+msgid "Every degree lower in the winter or higher in the summer you put it is a 10 percent decrease on your energy bill."
+msgstr "Изменение температуры на один градус ниже зимой или на один градус выше летом снижает затраты электроэнергии на 10 процентов."
+
+#: gogreentips.php:100
+msgid "Turn off your lights when you are not using them. The benefits are obvious."
+msgstr "Выключайте свет, если не используете его. Преимущества очевидны."
+
+#: gogreentips.php:101
+msgid "Instead of getting a paper phone book. Use a online directory instead."
+msgstr "Вместо приобретения бумажного телефонного справочника пользуйтесь он-лайн каталогами."
+
+#: gogreentips.php:102
+msgid "Take things that you are not going to wear or use and give it to a charity or someone who will use it."
+msgstr "Возьмите вещи, которыми не пользуетесь или не носите и отдайте их в благотворительный фонд или тем, кто будет ими пользоваться."
+
+#: gogreentips.php:103
+msgid "Going to a car wash is a lot more water efficient then washing your car at home."
+msgstr "Поездка на автомойку значительно эффективнее по затратам воды, чем мыть автомобиль дома."
+
+#: gogreentips.php:104
+msgid "Even though it will take a good investment to buy these you will find yourself gaining it back in no time."
+msgstr "Даже ели это потребует хороших инвестиций, Вам не придется больше возвращаться к этому вопросу."
+
+#: gogreentips.php:105
+msgid "If every house in the US did this then we would save 18 million trees every year."
+msgstr "Если каждый дом в США будет это делать, то мы сохраним 18 миллионов деревьев каждый год."
+
+#: gogreentips.php:106
+msgid "You can not recycle plastic bags, instead get yourself a reusable bag so that you will not have to worry about carrying your necessities."
+msgstr "Вы не можете перерабатывать пластиковые пакеты, вместо этого приобретите многоразовую сумку, таким образом Вам не придется волноваться о перемещении Ваших покупок."
+
+#: gogreentips.php:107
+msgid "If your tires are inflated at all times your car will run more miles on less gas."
+msgstr "Если шины всегда накачаны, то Ваша машина проедет больше миль при меньших затратах топлива."
+
+#: gogreentips.php:108
+msgid "It is good for the air, can keep you cool, and can increase your property value."
+msgstr "Это хорошо для воздуха, спасет прохладой и поможет увеличить стоимость имущества."
+
+#: gogreentips.php:109
+msgid "If you have to go somewhere close consider riding your bike or walking there instead of your car. It is better on the environment and healthier."
+msgstr "Если Вам нужно идти куда-нибудь недалеко, то рассмотрите возможность поездки на велосипеде или прогулки пешком вместо Вашей машины. Это лучше для окружающей среды и здоровья."
+
+#: gogreentips.php:186
+msgid "Title:"
+msgstr "Title:"
+
+#: gogreentips.php:190
+msgid "Style"
+msgstr "Style"
+
+#: gogreentips.php:192
+msgid "Vertical"
+msgstr "Vertical"
+
+#: gogreentips.php:193
+msgid "Horizontal"
+msgstr "Horizontal"
+

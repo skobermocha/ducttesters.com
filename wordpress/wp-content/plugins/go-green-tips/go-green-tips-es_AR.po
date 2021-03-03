@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Green Living Tips\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-17 07:56-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: onur <onur@lycie.com>\n"
+"Language-Team: Onr <onur@lycie.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNited States\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: gogreentips.php:74
+msgid "Change to fluorescent bulbs"
+msgstr "تغيير لمبات الفلورسنت"
+
+#: gogreentips.php:75
+msgid "Hang outside to dry"
+msgstr "شنق خارج الأراضي الجافة"
+
+#: gogreentips.php:76
+msgid "Use both sides of paper"
+msgstr "استخدام كلا الجانبين من الورق"
+
+#: gogreentips.php:77
+msgid "Get rid of baths"
+msgstr "التخلص من الحمامات"
+
+#: gogreentips.php:78
+msgid "Do not get bottled water"
+msgstr "لا يحصلون على المياه المعبأة في زجاجات"
+
+#: gogreentips.php:79
+msgid "Shorten your shower"
+msgstr "تقصير وقت إستحمامك"
+
+#: gogreentips.php:80
+msgid "Recycle glass"
+msgstr "إعادة تدوير الزجاج"
+
+#: gogreentips.php:81
+msgid "Turn down your thermostat"
+msgstr "رفض الخاص بك ترموستات"
+
+#: gogreentips.php:82
+msgid "Turn off your lights"
+msgstr "إيقاف تشغيل المصابيح"
+
+#: gogreentips.php:83
+msgid "Do not get a paper phone book"
+msgstr "لا تحصل على ورقة دفتر الهاتف"
+
+#: gogreentips.php:84
+msgid "Give things away"
+msgstr "تعطي الأشياء بعيدا"
+
+#: gogreentips.php:85
+msgid "Go to a car wash"
+msgstr "الذهاب إلى غسيل السيارات"
+
+#: gogreentips.php:86
+msgid "Buy rechargeable batteries"
+msgstr "شراء بطاريات قابلة لإعادة الشحن"
+
+#: gogreentips.php:87
+msgid "Pay your bills online"
+msgstr "دفع الفواتير عبر الإنترنت"
+
+#: gogreentips.php:88
+msgid "Get a reusable bag"
+msgstr "الحصول على كيس يمكن إعادة استخدامها"
+
+#: gogreentips.php:89
+msgid "Inflate your tires"
+msgstr "تضخيم الاطارات الخاصة بك"
+
+#: gogreentips.php:90
+msgid "Plant a tree"
+msgstr "زرع شجرة"
+
+#: gogreentips.php:91
+msgid "Walk or ride your bike when you can"
+msgstr "المشي أو ركوب الدراجة الخاصة بك عندما يمكنك"
+
+#: gogreentips.php:92
+msgid "If every house in the United States changed all of the light bulbs in their house, that would be equivalent to taking one million cars off the streets."
+msgstr "إذا كان كل منزل في الولايات المتحدة غيرت كل من المصابيح الكهربائية في المنزل ، والتي من شأنها أن تكون مساوية لاتخاذ واحد مليون سيارة من الشوارع."
+
+#: gogreentips.php:93
+msgid "Get a clothes line or rack to dry your cloths. Your clothes will last longer and you will save money."
+msgstr "الحصول على خط القماش أو رف لتجفيف الملابس الخاصة بك. سوف يتستمر لفترة أطول ، وسوف توفر المال"
+
+#: gogreentips.php:94
+msgid "If you have a printer with a double sided print option, use it. You will save half of the amount of paper you would have normally used."
+msgstr "إذا كان لديك طابعة مع مزدوجة من جانب خيار الطباعة ، واستخدامها. سيوفر لك نصف كمية الورق عملتم تستخدم عادة."
+
+#: gogreentips.php:95
+msgid "Do not take baths, take showers. You will save about half the amount of water that you would if you were taking a bath."
+msgstr "لا تأخذ في الحمامات ، والاستحمام. سيوفر لك حوالي نصف كمية المياه التي لو كنت قد أخذ حمام."
+
+#: gogreentips.php:96
+msgid "Instead of bottled water get a reusable container to carry water. Also you can get a filter to make your home tap taste more like bottled water. It is definitely more cost efficient."
+msgstr "بدلا من الحصول على المياه المعبأة في زجاجات في حاوية لنقل المياه التي يعاد استخدامها. كما يمكنك الحصول على فلتر لجعل منزلك أكثر استفادة من مثل طعم المياه المعبأة في زجاجات. هو بالتأكيد أكثر فعالية من حيث التكلفة."
+
+#: gogreentips.php:97
+msgid "Every minute you cut from your shower is roughly 5 gallons of water. The less time your shower takes, the lower your impact on the environment."
+msgstr "في كل دقيقة كنت قطع من جهاز الدش هو ما يقرب من 5 غالون من الماء. في وقت أقل للاستحمام تحيط بك ، وأقل لكم تأثير على البيئة."
+
+#: gogreentips.php:98
+msgid "If you do not recycle this, it will take a million years to decompose."
+msgstr "إذا لم يكن لإعادة تدوير هذا ، وسوف يستغرق ملايين السنين لتتحلل."
+
+#: gogreentips.php:99
+msgid "Every degree lower in the winter or higher in the summer you put it is a 10 percent decrease on your energy bill."
+msgstr "كل درجة أقل في الشتاء أو أعلى في فصل الصيف الذي وضعته فيه هو انخفاض بنسبة 10 في المئة على فاتورة الطاقة."
+
+#: gogreentips.php:100
+msgid "Turn off your lights when you are not using them. The benefits are obvious."
+msgstr "إيقاف تشغيل المصابيح عند عدم استخدامها. فوائد واضحة."
+
+#: gogreentips.php:101
+msgid "Instead of getting a paper phone book. Use a online directory instead."
+msgstr "بدلا من الحصول على ورقة دفتر الهاتف. استخدام دليل على الانترنت بدلا من ذلك"
+
+#: gogreentips.php:102
+msgid "Take things that you are not going to wear or use and give it to a charity or someone who will use it."
+msgstr "لك أن تأخذ الأمور لا تسير على ارتداء أو استخدام وتعطيه لجمعية خيرية أو لشخص ما استخدام هذه القوة."
+
+#: gogreentips.php:103
+msgid "Going to a car wash is a lot more water efficient then washing your car at home."
+msgstr "الذهاب لغسيل السيارات والكثير من المياه بكفاءة ثم غسل سيارتك في المنزل."
+
+#: gogreentips.php:104
+msgid "Even though it will take a good investment to buy these you will find yourself gaining it back in no time."
+msgstr "على الرغم من ان الامر سيستغرق واستثمارية جيدة لشراء هذه سوف تجد نفسك مرة أخرى في كسب أي وقت من الأوقات."
+
+#: gogreentips.php:105
+msgid "If every house in the US did this then we would save 18 million trees every year."
+msgstr "إذا كان كل منزل في الولايات المتحدة فعلت هذا بعد ذلك من شأنه أن يوفر 18 مليون شجرة في كل سنة."
+
+#: gogreentips.php:106
+msgid "You can not recycle plastic bags, instead get yourself a reusable bag so that you will not have to worry about carrying your necessities."
+msgstr "لا يمكنك إعادة تدوير أكياس بلاستيكية ، بدلا من الحصول على نفسك كيس قابلة لإعادة الاستخدام بحيث أنك لن تقلق على تحمل بك من الضروريات."
+
+#: gogreentips.php:107
+msgid "If your tires are inflated at all times your car will run more miles on less gas."
+msgstr "إذا كان لديك اطارات مبالغ فيها في جميع الأوقات سيارتك سيتم تشغيل أكثر ميلا على الأقل من الغاز."
+
+#: gogreentips.php:108
+msgid "It is good for the air, can keep you cool, and can increase your property value."
+msgstr "انه لامر جيد بالنسبة للالهواء ، ويمكن لك أن تبقي باردة ، ويمكن أن تزيد من قيمة الممتلكات."
+
+#: gogreentips.php:109
+msgid "If you have to go somewhere close consider riding your bike or walking there instead of your car. It is better on the environment and healthier."
+msgstr "إذا كان لديك للذهاب الى مكان قريب النظر في ركوب الدراجة الخاصة بك أو المشي هناك بدلا من السيارة. فمن الأفضل على البيئة وصحة."
+
+#: gogreentips.php:186
+msgid "Title:"
+msgstr "العنوان:"
+
+#: gogreentips.php:190
+msgid "Style"
+msgstr "نمط"
+
+#: gogreentips.php:192
+msgid "Vertical"
+msgstr "عمودي"
+
+#: gogreentips.php:193
+msgid "Horizontal"
+msgstr "أفقي"
+

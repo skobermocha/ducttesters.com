@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Green Living Tips\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-17 07:55-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: onur <onur@lycie.com>\n"
+"Language-Team: Onr <onur@lycie.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNited States\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: gogreentips.php:74
+msgid "Change to fluorescent bulbs"
+msgstr "Zamenite obične niskopotrošnim sijalicama"
+
+#: gogreentips.php:75
+msgid "Hang outside to dry"
+msgstr "Sušite veš napolju"
+
+#: gogreentips.php:76
+msgid "Use both sides of paper"
+msgstr "Štampajte i kopirajte obostrano"
+
+#: gogreentips.php:77
+msgid "Get rid of baths"
+msgstr "Tuširajte se, punjenje kade je besmisleno"
+
+#: gogreentips.php:78
+msgid "Do not get bottled water"
+msgstr "Ne kupuje flaširanu vodu"
+
+#: gogreentips.php:79
+msgid "Shorten your shower"
+msgstr "Skratite vreme tuširanja"
+
+#: gogreentips.php:80
+msgid "Recycle glass"
+msgstr "Reciklirajte staklo"
+
+#: gogreentips.php:81
+msgid "Turn down your thermostat"
+msgstr "Smanjite temperaturu na termostatu"
+
+#: gogreentips.php:82
+msgid "Turn off your lights"
+msgstr "Gasite svetlo"
+
+#: gogreentips.php:83
+msgid "Do not get a paper phone book"
+msgstr "Izbacite papirni telefonski imenik"
+
+#: gogreentips.php:84
+msgid "Give things away"
+msgstr "Rastosiljajte se krša iz kuće, poklonite stvari"
+
+#: gogreentips.php:85
+msgid "Go to a car wash"
+msgstr "Idite u perionicu automobila"
+
+#: gogreentips.php:86
+msgid "Buy rechargeable batteries"
+msgstr "Koristite baterije koje se pune"
+
+#: gogreentips.php:87
+msgid "Pay your bills online"
+msgstr "Plaćajte račune online"
+
+#: gogreentips.php:88
+msgid "Get a reusable bag"
+msgstr "Izbacite plastične kese, cegeri su zakon"
+
+#: gogreentips.php:89
+msgid "Inflate your tires"
+msgstr "Naduvajte gume na automobilu"
+
+#: gogreentips.php:90
+msgid "Plant a tree"
+msgstr "Zasadite drvo"
+
+#: gogreentips.php:91
+msgid "Walk or ride your bike when you can"
+msgstr "Šetajte i vozite bicikal, kada god možete"
+
+#: gogreentips.php:92
+msgid "If every house in the United States changed all of the light bulbs in their house, that would be equivalent to taking one million cars off the streets."
+msgstr "Ako bi svako domaćinstvo u SAD zamenilo sve sijalice u kući, to bi bilo ekvivalentno kao da je milion automobila manje izašlo na ulice"
+
+#: gogreentips.php:93
+msgid "Get a clothes line or rack to dry your cloths. Your clothes will last longer and you will save money."
+msgstr "Namestite štrih, uštedećete novac i energiju."
+
+#: gogreentips.php:94
+msgid "If you have a printer with a double sided print option, use it. You will save half of the amount of paper you would have normally used."
+msgstr "Ako koristite štampač, podesite opciju štampaj obostrano. Iskoristićete samo polivinu količine papira, koji inače koristite."
+
+#: gogreentips.php:95
+msgid "Do not take baths, take showers. You will save about half the amount of water that you would if you were taking a bath."
+msgstr "Ne punite kadu, tuširajte se. vaši računi za vodu biće prepolovljeni."
+
+#: gogreentips.php:96
+msgid "Instead of bottled water get a reusable container to carry water. Also you can get a filter to make your home tap taste more like bottled water. It is definitely more cost efficient."
+msgstr "Umesto da kupujete flaširanu vodu, punite flašice česmovačom. Zarad boljeg ukusa, kupite filtere za slavine.Razlozi su mnogostruki"
+
+#: gogreentips.php:97
+msgid "Every minute you cut from your shower is roughly 5 gallons of water. The less time your shower takes, the lower your impact on the environment."
+msgstr "Svakoga minuta tuširanja, potrošite 19 litara vode. Skratite vreme tuširanja, to ima uticaj na zaštitu životne okoline."
+
+#: gogreentips.php:98
+msgid "If you do not recycle this, it will take a million years to decompose."
+msgstr "Ako ne reciklirate, djubretu koje napravite za života potrebno je oko milion godina da se razgradi."
+
+#: gogreentips.php:99
+msgid "Every degree lower in the winter or higher in the summer you put it is a 10 percent decrease on your energy bill."
+msgstr "Svaki stepen manje na grejnim telima i klima uređajima je 10% manji račun za struju."
+
+#: gogreentips.php:100
+msgid "Turn off your lights when you are not using them. The benefits are obvious."
+msgstr "Lako. Isključite svetla kada ih ne koristite, prednosti su očigledne"
+
+#: gogreentips.php:101
+msgid "Instead of getting a paper phone book. Use a online directory instead."
+msgstr "Umesto da imate štampani pairni telefinski imenik, koristite bazu pretplatnika online"
+
+#: gogreentips.php:102
+msgid "Take things that you are not going to wear or use and give it to a charity or someone who will use it."
+msgstr "Izdvojite garderobu koju ne nosite i poklonite je nekome. Neko me je preko potrebna, a vama zauzima prostor i skuplja prašinu."
+
+#: gogreentips.php:103
+msgid "Going to a car wash is a lot more water efficient then washing your car at home."
+msgstr "Efikasnije je da odvezete automobil, nego da ga perete kod kuće."
+
+#: gogreentips.php:104
+msgid "Even though it will take a good investment to buy these you will find yourself gaining it back in no time."
+msgstr "Iako su skuplje, prednost je velika"
+
+#: gogreentips.php:105
+msgid "If every house in the US did this then we would save 18 million trees every year."
+msgstr "Da svako je domaćinstvo u SAD plaćalo račune online, sačuvali bi 18 miliona stabala godišnje."
+
+#: gogreentips.php:106
+msgid "You can not recycle plastic bags, instead get yourself a reusable bag so that you will not have to worry about carrying your necessities."
+msgstr "Koristite platnene torbe i cegere, plastične kese se razlažu 10-20 godina."
+
+#: gogreentips.php:107
+msgid "If your tires are inflated at all times your car will run more miles on less gas."
+msgstr "Ako su vam gume naduvane, vaš automobil prelaz više kilometrara sa manje benzina, nafte ili plina."
+
+#: gogreentips.php:108
+msgid "It is good for the air, can keep you cool, and can increase your property value."
+msgstr "Dobro je za vazduh, hladovinu i vrednost vaše imovine."
+
+#: gogreentips.php:109
+msgid "If you have to go somewhere close consider riding your bike or walking there instead of your car. It is better on the environment and healthier."
+msgstr "Zdraviji način za prelaženje manjih razdaljina. Ne zagađuje životnu okolinu."
+
+#: gogreentips.php:186
+msgid "Title:"
+msgstr "Title"
+
+#: gogreentips.php:190
+msgid "Style"
+msgstr "Style"
+
+#: gogreentips.php:192
+msgid "Vertical"
+msgstr "Vertical"
+
+#: gogreentips.php:193
+msgid "Horizontal"
+msgstr "Horizontal"
+

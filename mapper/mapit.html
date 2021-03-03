@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>DuctTesters | Routing</title>
+<style>
+		#Mapper {position: absolute; top:300px; left:5px; width: 195px; z-index:10;padding: 3px;font-size: 70%; }
+		#address { margin-bottom:12px; width:95%; padding: .4em; font-size: 75%; }
+</style>
+
+<link href="http://code.google.com/apis/maps/documentation/javascript/examples/default.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+<link type="text/css" href="css/cupertino/jquery-ui-1.8.16.custom.css" rel="Stylesheet" />	
+<script type="text/javascript" src="js/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="js/jquery-ui-1.8.16.custom.min.js"></script>
+<script type="text/javascript">
+$(function() {
+	$( "#dialog-form" ).dialog({
+			autoOpen: false,
+			height: 200,
+			width: 350,
+			modal: false,
+			buttons: {
+				"Map It!": function() {
+					codeAddress();
+					$( this ).dialog( "close" );
+				
+				},	
+				Cancel: function() {
+					$( this ).dialog( "close" );
+				}
+			},
+			close: function() {
+				allFields.val( "" ).removeClass( "ui-state-error" );
+			}
+		});
+
+
+		$( "#opener" )
+			.button()
+			.click(function() {
+				$( "#dialog-form" ).dialog( "open" );
+		});
+	});
+</script>
+	
+<script type="text/javascript">
+var geocoder;
+var map;
+
+function initialize() {
+	geocoder = new google.maps.Geocoder();
+	var latlng = new google.maps.LatLng(37.64115,-120.995607);
+	var myOptions = {
+		zoom: 8,
+		center: latlng,
+		panControl: false,
+		mapTypeId: google.maps.MapTypeId.ROADMAP
+	}
+    	
+	map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+    map.setZoom(map.getBoundsZoomLevel());
+}
+
+function AddressGetter(){
+	var addressbox = document.getElementById("address").value;
+	var addressSplit = addressbox.split("\n");
+
+	return addressSplit;
+}
+
+
+function codeAddress() {
+	var strSplit = AddressGetter();
+	var count = 0;
+	for (x in strSplit){
+		var address = strSplit[x];
+		
+		geocoder.geocode( { 'address': address}, function(results, status) {
+		
+		if (status == google.maps.GeocoderStatus.OK) {
+        		map.setCenter(results[0].geometry.location);
+        		var marker = new google.maps.Marker({
+            		map: map, 
+            		position: results[0].geometry.location,
+					title: strSplit[count]
+        		});
+
+        	    attachSecretMessage(marker, count);
+        	    count = count + 1;
+      		} else {
+        		alert("Geocode was not successful for the following reason: " + status);
+      		}
+    		});
+  	}
+  	map.fitbounds();
+}
+
+function attachSecretMessage(marker, number) {
+  var message = AddressGetter();
+  var infowindow = new google.maps.InfoWindow(
+      { content: message[number],
+        size: new google.maps.Size(50,50)
+      });
+  google.maps.event.addListener(marker, 'click', function() {
+    infowindow.open(map,marker);
+  });
+}
+
+</script>
+
+</head>
+<body onload="initialize()">
+
+<div id="Mapper">
+    
+ <button id="opener" >Mapper</button>
+   
+</div>
+<div id="dialog-form" title="Map Addresses">
+	<Textarea id="address" type="textbox" Rows="3" COLS="25" style="resize:none;"></TEXTAREA>
+</div>
+
+<div id="map_canvas" style="width:100%; height:100%"></div>
+
+</body>
+</html>

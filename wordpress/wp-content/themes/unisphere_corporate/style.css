@@ -1,0 +1,28 @@
+/*
+Theme Name:		UniSphere Corporate
+Theme URI: 		http://www.unispheredesign.com/
+Version: 		1.0
+Description: 	Designed by <a href="http://www.unispheredesign.com">UniSphere Design</a>.
+
+/* Reset Browser Defaults */
+@import url( 'library/media/css/reset.css' );
+
+/* Apply base theme styles and colors */
+@import url( 'library/media/css/base.css' );
+
+/* Basic 2 Column Layout */
+@import url( 'library/media/layouts/2col-l.css' );
+
+/* Stylistic CSS Styles */
+@import url( 'library/media/css/screen.css' );
+
+/* These empty css selectors are temporarily here for compatiability with the WordPress theme repository checklist. */
+.aligncenter {} .alignleft {} .alignright {} .wp-caption {} .wp-caption-text {}
+
+.callme{margin-right:50px; margin-top:10px; float:left;}
+
+/* Dropbox Form */
+#dropbox{background:none repeat scroll 0 0 #F6F6F6;border:1px solid #c3c3c3;padding:5px;width:412px;text-align:center;}
+.dbinput {background: #F6F6F6;padding:2px;height:27px;}
+.dbbutton {background: #4176BA;padding:2px 8px;color:white;height:27px;}
+.dbbutton:hover {background: #2C65AD;}

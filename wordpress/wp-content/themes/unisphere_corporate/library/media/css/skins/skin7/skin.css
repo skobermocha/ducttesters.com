@@ -1,0 +1,60 @@
+/* The Body */
+body { background-color: #fff; color: #2f151f; }
+
+/* Heading Colors */
+h1, h2, h3, h4, h5, h6 { color: #91334f; }
+
+/* Links */
+a { color: #b5b357; }
+
+.nav li.page_item a:hover { color: #fff; background: transparent url('menu_item_bg_right.gif') no-repeat scroll right top; }
+.nav li.page_item span:hover { background: transparent url('menu_item_bg_left.gif') no-repeat scroll left top; }
+
+.ie6 .nav li.page_item a:hover { background: none; color: #b5b357; } /* Handle IE6 Limitations */
+
+.nav li.current_page_item a, .nav li.current_page_ancestor a { color: #fff !important; background: transparent url('menu_item_bg_right.gif') no-repeat scroll right top !important; }
+.nav li.current_page_item span, .nav li.current_page_ancestor span { background: transparent url('menu_item_bg_left.gif') no-repeat scroll left top; }
+
+/* Home Page Slider */
+#slider-content { background: transparent url('slider_bg.gif') no-repeat; }
+
+#slider-text h2,
+#slider-text .text { color: #fff; }
+
+#slider-images img { border-bottom: 1px solid #d7e5ea; }
+
+/* The 3 Home Sections */
+#home-3-sections-middle h3 { color: #b5b357; }
+
+/* Footer */
+.footer { background: transparent url('footer_bg.gif') no-repeat; }
+.footer #copyright { color: #fff;}
+.footer a { color: #fff; }
+.footer a:hover { color: #b5b357; }
+.footer .separator { color: #fff; }
+
+/* Inner Page Sub-Header */
+#sub-header { background: transparent url('sub_header_bg.gif'); }
+#sub-header h2,
+#sub-header p { color: #fff; }
+
+/* Override some of the base.css styles */
+h1.entry-title { color: #91334f; }
+h2.entry-title a:hover { color: #91334f; }
+h2.entry-title { color: #91334f; }
+#primary .published, #primary .comment-date { color: #949393; }
+#primary cite.commenter { color: #91334f; }
+#primary hr { border: 1px solid #D7DDE1; }
+.entry-tags { color: #949393; }
+
+/* Sidebar Widgets */
+.widget li.page_item, .widget li.cat-item { background: transparent url('bullet_unselected.gif') no-repeat scroll left 5px; }
+.widget li.current_page_item, .widget li.current-cat { background: transparent url('bullet_selected.gif') no-repeat scroll left 5px; }
+.widget h4 { color: #91334f; }
+
+/* Tables */
+table { border: 1px solid #ccc; }
+table .alt { background: #eee; }
+tr { border-bottom: 1px solid #ccc; }
+th { background-color:#91334f; border:1px solid #91334f; color:#FFFFFF; }
+table tfoot tr th, table tfoot tr td { background-color:#aaa; border:1px solid #aaa; }

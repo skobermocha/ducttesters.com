@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Green Living Tips\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-17 07:56-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: onur <onur@lycie.com>\n"
+"Language-Team: Onr <onur@lycie.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNited States\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: gogreentips.php:74
+msgid "Change to fluorescent bulbs"
+msgstr "Schakel over naar spaarlampen"
+
+#: gogreentips.php:75
+msgid "Hang outside to dry"
+msgstr "Hang uw was buiten te drogen"
+
+#: gogreentips.php:76
+msgid "Use both sides of paper"
+msgstr "Gebruik beide zijden van een blad papier"
+
+#: gogreentips.php:77
+msgid "Get rid of baths"
+msgstr "Stop met baden"
+
+#: gogreentips.php:78
+msgid "Do not get bottled water"
+msgstr "Gebruik geen gebotteld water"
+
+#: gogreentips.php:79
+msgid "Shorten your shower"
+msgstr "Verkort de tijd dat u doucht"
+
+#: gogreentips.php:80
+msgid "Recycle glass"
+msgstr "Recycleer glas"
+
+#: gogreentips.php:81
+msgid "Turn down your thermostat"
+msgstr "Zet uw thermostaat lager"
+
+#: gogreentips.php:82
+msgid "Turn off your lights"
+msgstr "Doe uw lichten uit"
+
+#: gogreentips.php:83
+msgid "Do not get a paper phone book"
+msgstr "Gebruik geen papieren telefoonboek"
+
+#: gogreentips.php:84
+msgid "Give things away"
+msgstr "Geef dingen weg"
+
+#: gogreentips.php:85
+msgid "Go to a car wash"
+msgstr "Ga naar een carwash"
+
+#: gogreentips.php:86
+msgid "Buy rechargeable batteries"
+msgstr "Koop herbruikbare batterijen"
+
+#: gogreentips.php:87
+msgid "Pay your bills online"
+msgstr "Betaal uw rekeningen on-line"
+
+#: gogreentips.php:88
+msgid "Get a reusable bag"
+msgstr "Gebruik herbruikbare tassen"
+
+#: gogreentips.php:89
+msgid "Inflate your tires"
+msgstr "Controleer uw bandenspanning"
+
+#: gogreentips.php:90
+msgid "Plant a tree"
+msgstr "Plant een boom"
+
+#: gogreentips.php:91
+msgid "Walk or ride your bike when you can"
+msgstr "Wandel of gebruik uw fiets als u kunt"
+
+#: gogreentips.php:92
+msgid "If every house in the United States changed all of the light bulbs in their house, that would be equivalent to taking one million cars off the streets."
+msgstr "<br/>Als ieder huis in Europa zijn lampen zou vervangen, zou dit een zelfde resultaat geven als het wegnemen van 1 miljoen wagens van de straat."
+
+#: gogreentips.php:93
+msgid "Get a clothes line or rack to dry your cloths. Your clothes will last longer and you will save money."
+msgstr "<br/>Koop een droogrek om uw was te drogen. Uw kleren zullen langer meegaan en u zult geld besparen."
+
+#: gogreentips.php:94
+msgid "If you have a printer with a double sided print option, use it. You will save half of the amount of paper you would have normally used."
+msgstr "<br/>Als u een printer heeft waarmee u dubbelzijdig kunt printen, gebruik dat dan. U zult maar half zoveel papier nodig hebben als u normaal zou doen."
+
+#: gogreentips.php:95
+msgid "Do not take baths, take showers. You will save about half the amount of water that you would if you were taking a bath."
+msgstr "<br/>Ga niet in bad, stap onder de douche. Baden verbruikt dubbel zoveel water als douchen."
+
+#: gogreentips.php:96
+msgid "Instead of bottled water get a reusable container to carry water. Also you can get a filter to make your home tap taste more like bottled water. It is definitely more cost efficient."
+msgstr "<br/>In plaats van gebotteld water te drinken, gebruikt u beter een herbruikbare watercontainer. Maak gebruik van een filter om het water te filteren zoals bv een Brita-filter. Het is zeker meer kostenbesparend."
+
+#: gogreentips.php:97
+msgid "Every minute you cut from your shower is roughly 5 gallons of water. The less time your shower takes, the lower your impact on the environment."
+msgstr "<br/>Iedere minuut dat u doucht, verbruikt u bijna 20 liter water. Hoe minder lang u onder de douche staat, hoe kleiner de impact op het milieu."
+
+#: gogreentips.php:98
+msgid "If you do not recycle this, it will take a million years to decompose."
+msgstr "<br/>Als u geen glas recycleert, duurt het een miljoen jaar om af te breken."
+
+#: gogreentips.php:99
+msgid "Every degree lower in the winter or higher in the summer you put it is a 10 percent decrease on your energy bill."
+msgstr "<br/>Iedere graad lager in de winter of hoger in de zomer, vermindert uw energiefactuur met 10 procent."
+
+#: gogreentips.php:100
+msgid "Turn off your lights when you are not using them. The benefits are obvious."
+msgstr "<br/>Doe uw lichten uit als u ze niet nodig heeft. De voordelen liggen voor de hand."
+
+#: gogreentips.php:101
+msgid "Instead of getting a paper phone book. Use a online directory instead."
+msgstr "<br/>In plaats van een papieren telefoonboek te gebruiken, gebruikt u beter een on-line telefoonboek."
+
+#: gogreentips.php:102
+msgid "Take things that you are not going to wear or use and give it to a charity or someone who will use it."
+msgstr "<br/>Neem dingen die u niet meer gebruikt of draagt en geef ze aan een goed doel of aan iemand die ze kan gebruiken."
+
+#: gogreentips.php:103
+msgid "Going to a car wash is a lot more water efficient then washing your car at home."
+msgstr "<br/>Naar een carwash gaan bespaart veel meer water dan uw wagen thuis wassen."
+
+#: gogreentips.php:104
+msgid "Even though it will take a good investment to buy these you will find yourself gaining it back in no time."
+msgstr "<br/>Alhoewel ze niet goedkoop zijn in aankoop, zult u zien dat u in geen tijd die investering zult teruggewonnen hebben."
+
+#: gogreentips.php:105
+msgid "If every house in the US did this then we would save 18 million trees every year."
+msgstr "<br/>Als iedereen gezin in Europa dit zou doen, dan zouden we ieder jaar bijna 20 miljoen bomen redden."
+
+#: gogreentips.php:106
+msgid "You can not recycle plastic bags, instead get yourself a reusable bag so that you will not have to worry about carrying your necessities."
+msgstr "<br/>Plastieken zakken kunnen niet gerecycleerd worden. Gebruik liever een herbruikbare zak zodat u zich nooit meer zorgen moet maken over hoe u uw boodschappen moet dragen."
+
+#: gogreentips.php:107
+msgid "If your tires are inflated at all times your car will run more miles on less gas."
+msgstr "<br/>Als uw banden altijd de goede spanning hebben, zal uw wagen meer kilometers afleggen met minder brandstof."
+
+#: gogreentips.php:108
+msgid "It is good for the air, can keep you cool, and can increase your property value."
+msgstr "<br/>Het is goed voor de lucht, het kan u koel houden en het geeft een meerwaarde aan uw woning."
+
+#: gogreentips.php:109
+msgid "If you have to go somewhere close consider riding your bike or walking there instead of your car. It is better on the environment and healthier."
+msgstr "<br/>Als u niet ver moet gaan, denk er dan aan om met de fiets of te voet te gaan ipv uw wagen te gebruiken. Het is beter voor het milieu en het is gezonder."
+
+#: gogreentips.php:186
+msgid "Title:"
+msgstr "Titel"
+
+#: gogreentips.php:190
+msgid "Style"
+msgstr "Stijl"
+
+#: gogreentips.php:192
+msgid "Vertical"
+msgstr "Vertikaal"
+
+#: gogreentips.php:193
+msgid "Horizontal"
+msgstr "Horizontaal"
+
